@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IshitaGusain
+- 📑 M.Sc.Data Science student
 - 👀 I’m interested in Statistical Analysis
-- 🌱 I’m currently learning Python
+- 🌱 I use Python and R
 - 💞️ I’m looking to collaborate on interesting researches
 
 <!---
